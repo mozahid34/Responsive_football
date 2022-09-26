@@ -44,7 +44,7 @@ header{
     height: 438px;
     margin-left: 150px;
     margin-top: 100px;
-    transition: transform 1s ease-in-out;
+    transition: transform 500ms ease-in-out;
     
 }   
 
